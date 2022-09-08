@@ -1,0 +1,14 @@
+{
+  "name": "@grunmouse/type-analyser",
+  "version": "0.1.0",
+  "description": "Анализатор типов переданного JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grunmouse/special-map": "link:..\\special-map"
+  }
+}
